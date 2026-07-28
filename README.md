@@ -30,9 +30,8 @@ practical, and easy-to-understand responses through a modern web interface.
 
 ## 📷 Application Preview
 
-<img width="900" alt="AgroBot Screenshot" src="images/agrobot.png">
+<img width="900" alt="https://github.com/emmaloaded7/AgroBot-AI-Agricultural-Assistant/blob/master/images/AgroAI.png>
 
-> Replace the image above with a screenshot of your application after deployment.
 
 ---
 
