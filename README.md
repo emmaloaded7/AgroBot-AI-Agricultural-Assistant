@@ -30,7 +30,7 @@ practical, and easy-to-understand responses through a modern web interface.
 
 ## 📷 Application Preview
 
-<img width="900" alt="https://github.com/emmaloaded7/AgroBot-AI-Agricultural-Assistant/blob/master/images/AgroAI.png>
+<img src="images/AgroAI.png" alt="AgroBot Screenshot" width="900">
 
 
 ---
